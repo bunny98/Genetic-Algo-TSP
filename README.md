@@ -2,5 +2,5 @@
 
 GRAPH
 <p align= "center">
-<img width="700" height="400" src="Capture.PNG"><br>
+<img width="600" height="400" src="Capture.PNG"><br>
 </p>
